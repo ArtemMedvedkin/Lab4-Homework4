@@ -3,8 +3,8 @@
 <h2>Условие задачи</h2>
 #Калибровка станка
 Три важнейших параметра станка (A, B, C) должны быть идеально отлажены. Система калибровки выдает сообщение об успехе, если каждое из значений параметра кратно трем. Запишите условие успешной калибровки.
-<h2>Алгоритм и блок схема функции zd</h2>
-<img width="350" height="700" alt="image" src="https://github.com/ArtemMedvedkin/Lab5-Homework5/blob/main/image.png" />
+<h2>Алгоритм и блок схема функции param</h2>
+<img width="350" height="700" alt="image" src="https://github.com/ArtemMedvedkin/Lab4-Homework4/blob/main/image.png" />
 <h2>Реализация программы</h2>
 #define _CRT_SECURE_NO_DEPRECATE<br>
 #include <stdio.h><br>
